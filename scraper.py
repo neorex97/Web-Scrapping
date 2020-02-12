@@ -1,3 +1,6 @@
+# Amazon price drop alert via gmail
+
+
 import requests
 from bs4 import BeautifulSoup
 import smtplib
